@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compositor 简体中文汉化补丁
 
 macOS 图像编辑器 **Compositor**（v1.4.10）的界面汉化补丁。**无需 Xcode、无需重新编译
@@ -45,3 +46,7 @@ cd compositor-zh-patch
 
 补丁内的界面词条与资源派生自 **Compositor**（Copyright © 2026 Wonder Assembly LLC，
 MIT License），版权归原作者所有，条款原文见 [UPSTREAM-LICENSE](UPSTREAM-LICENSE)。
+=======
+# compositor-zh-patch-release
+compositor-zh-patch-release
+>>>>>>> origin/main
