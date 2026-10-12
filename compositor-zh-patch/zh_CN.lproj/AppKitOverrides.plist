@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>16 bits per channel</key>
+	<string>16 位/通道</string>
+	<key>3 by 3 Average</key>
+	<string>3 × 3 平均</string>
+	<key>3 by 3 average</key>
+	<string>3 × 3 平均</string>
+	<key>5 by 5 Average</key>
+	<string>5 × 5 平均</string>
+	<key>5 by 5 average</key>
+	<string>5 × 5 平均</string>
+	<key>ASCII</key>
+	<string>ASCII</string>
+	<key>Actual Pixels</key>
+	<string>实际像素</string>
+	<key>Add</key>
+	<string>添加</string>
+	<key>Add Layer Mask</key>
+	<string>添加图层蒙版</string>
+	<key>Add Layer Mask Hiding Selection</key>
+	<string>添加隐藏选区的图层蒙版</string>
+	<key>Add Layer Mask from Selection</key>
+	<string>从选区添加图层蒙版</string>
+	<key>Add Mask</key>
+	<string>添加蒙版</string>
+	<key>Add Noise</key>
+	<string>添加杂色</string>
+	<key>Add layer mask</key>
+	<string>添加图层蒙版</string>
+	<key>Advanced</key>
+	<string>高级</string>
+	<key>Align</key>
+	<string>对齐</string>
+	<key>Aligned</key>
+	<string>已对齐</string>
+	<key>All</key>
+	<string>全部</string>
+	<key>All Layers</key>
+	<string>所有图层</string>
+	<key>Amount</key>
+	<string>数量</string>
+	<key>Anchor</key>
+	<string>锚点</string>
+	<key>Angle</key>
+	<string>角度</string>
+	<key>Another app changed this project. You can revert to the version on disk, losing your unsaved changes, or keep what you have.</key>
+	<string>其他应用更改了此项目。你可以还原为磁盘上的版本（将丢失未存储的更改），或保留你当前的版本。</string>
+	<key>Anti-alias</key>
+	<string>消除锯齿</string>
+	<key>App Store</key>
+	<string>App Store</string>
+	<key>Apply</key>
+	<string>应用</string>
+	<key>Apply Crop</key>
+	<string>应用裁剪</string>
+	<key>Apply current canvas operation</key>
+	<string>应用当前画布操作</string>
+	<key>Atkinson (Classic Mac)</key>
+	<string>Atkinson（经典 Mac）</string>
+	<key>Auto</key>
+	<string>自动</string>
+	<key>Auto Select</key>
+	<string>自动选择</string>
+	<key>Background</key>
+	<string>背景色</string>
+	<key>Background color</key>
+	<string>背景色</string>
+	<key>Bake and Delete</key>
+	<string>拼合并删除</string>
+	<key>Bake keeps the current masked appearance in the dependent layers’ pixels. Remove Links reveals their pixels. You can undo either choice.</key>
+	<string>「拼合」会在依赖图层的像素中保留当前的蒙版效果；「移除链接」会显示它们的像素。两种选择都可撤销。</string>
+	<key>Based On</key>
+	<string>基于</string>
+	<key>Basic</key>
+	<string>基本</string>
+	<key>Bayer 2 × 2</key>
+	<string>Bayer 2 × 2</string>
+	<key>Bayer 4 × 4</key>
+	<string>Bayer 4 × 4</string>
+	<key>Bayer 8 × 8</key>
+	<string>Bayer 8 × 8</string>
+	<key>Black</key>
+	<string>黑场</string>
+	<key>Black &amp; White</key>
+	<string>黑白</string>
+	<key>Black Level</key>
+	<string>黑场</string>
+	<key>Black canvas</key>
+	<string>黑色画布</string>
+	<key>Black · Hide</key>
+	<string>黑色 · 隐藏</string>
+	<key>Blend</key>
+	<string>混合</string>
+	<key>Blend mode</key>
+	<string>混合模式</string>
+	<key>Bloom</key>
+	<string>泛光</string>
+	<key>Bloom / Glow</key>
+	<string>泛光 / 辉光</string>
+	<key>Blue Primary</key>
+	<string>蓝色原色</string>
+	<key>Blues</key>
+	<string>蓝色</string>
+	<key>Blur</key>
+	<string>模糊</string>
+	<key>Blur / Smudge / Liquify</key>
+	<string>模糊/涂抹/液化</string>
+	<key>Bottom</key>
+	<string>底部</string>
+	<key>Bottom Right Pixel Color</key>
+	<string>右下角像素颜色</string>
+	<key>Brightness</key>
+	<string>亮度</string>
+	<key>Brush</key>
+	<string>画笔</string>
+	<key>Brush tool</key>
+	<string>画笔工具</string>
+	<key>Calibration</key>
+	<string>校准</string>
+	<key>Camera Raw</key>
+	<string>Camera Raw</string>
+	<key>Camera Raw Filter</key>
+	<string>Camera Raw 滤镜</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Cancel current canvas operation</key>
+	<string>取消当前画布操作</string>
+	<key>Canvas</key>
+	<string>画布</string>
+	<key>Canvas &amp; Layers</key>
+	<string>画布与图层</string>
+	<key>Canvas Size</key>
+	<string>画布大小</string>
+	<key>Canvas Size…</key>
+	<string>画布大小…</string>
+	<key>Canvas extension</key>
+	<string>画布扩展</string>
+	<key>Canvas text</key>
+	<string>画布文字</string>
+	<key>Cell Size</key>
+	<string>单元格大小</string>
+	<key>Center</key>
+	<string>居中对齐</string>
+	<key>Centimeters</key>
+	<string>厘米</string>
+	<key>Channel</key>
+	<string>通道</string>
+	<key>Characters</key>
+	<string>字符</string>
+	<key>Check for Updates</key>
+	<string>检查更新</string>
+	<key>Check for Updates…</key>
+	<string>检查更新…</string>
+	<key>Choose a single key with optional modifiers</key>
+	<string>选择单个按键（可含修饰键）</string>
+	<key>Choose a single key with optional modifiers.</key>
+	<string>请按下一个按键（可带修饰键）。</string>
+	<key>Choose the dark color</key>
+	<string>选择暗色</string>
+	<key>Choose the light color</key>
+	<string>选择亮色</string>
+	<key>Choose the lines' color</key>
+	<string>选择线条颜色</string>
+	<key>Choose the screen's color</key>
+	<string>选择扫描线颜色</string>
+	<key>Clear Guides</key>
+	<string>清除参考线</string>
+	<key>Clear Menu</key>
+	<string>清除菜单</string>
+	<key>Clear Selection Pixels</key>
+	<string>清除选区像素</string>
+	<key>Click a shortcut, then press its new key combination. Changes apply when you save.</key>
+	<string>点按某个快捷键，然后按下新的组合键。存储后更改即生效。</string>
+	<key>Click an object to select its outline · Tab for Wand · Shift add · Option subtract · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect</key>
+	<string>点按对象选择其轮廓 · Tab 切换魔棒 · Shift 添加 · Option 减少 · 框内拖动移动选区 · ⌘-拖动移动像素 · Delete 清除 · ⌘D 取消选择</string>
+	<key>Click corners · Click start, double-click or Enter to close · Delete removes corner · Escape cancel</key>
+	<string>点按顶点 · 点按起点后双击或按 Enter 闭合 · Delete 删除顶点 · Escape 取消</string>
+	<key>Click the canvas to sample</key>
+	<string>点按画布进行取样</string>
+	<key>Click to add a point. Drag to adjust.</key>
+	<string>点按添加点，拖拽调整。</string>
+	<key>Click to select similar colors · Tab for Object · Shift add · Option subtract · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect</key>
+	<string>点按选取相似颜色 · Tab 切换对象 · Shift 添加 · Option 减少 · 框内拖动移动选区 · ⌘-拖动移动像素 · Delete 清除 · ⌘D 取消选择</string>
+	<key>Click to zoom in · Option-click to zoom out · Drag right or left to zoom smoothly · Space to pan</key>
+	<string>点按放大 · Option-点按缩小 · 左右拖拽平滑缩放 · 空格平移</string>
+	<key>Clipping mask based on</key>
+	<string>剪贴蒙版基于</string>
+	<key>Clone Stamp</key>
+	<string>仿制图章</string>
+	<key>Close Project</key>
+	<string>关闭项目</string>
+	<key>Color</key>
+	<string>颜色</string>
+	<key>Color Balance</key>
+	<string>色彩平衡</string>
+	<key>Color Burn</key>
+	<string>颜色加深</string>
+	<key>Color Dodge</key>
+	<string>颜色减淡</string>
+	<key>Color Grading</key>
+	<string>颜色分级</string>
+	<key>Color Mixer</key>
+	<string>颜色混合器</string>
+	<key>Color Overlay</key>
+	<string>颜色叠加</string>
+	<key>Color Priority</key>
+	<string>颜色优先</string>
+	<key>Color Range…</key>
+	<string>色彩范围…</string>
+	<key>Color Split</key>
+	<string>色彩分离</string>
+	<key>Colorize</key>
+	<string>着色</string>
+	<key>Colors</key>
+	<string>颜色</string>
+	<key>Component</key>
+	<string>分量</string>
+	<key>Compositor</key>
+	<string>Compositor</string>
+	<key>Constrain Crop</key>
+	<string>约束裁剪</string>
+	<key>Content-Aware</key>
+	<string>内容识别</string>
+	<key>Content-Aware Fill</key>
+	<string>内容识别填充</string>
+	<key>Content-Aware Fill…</key>
+	<string>内容识别填充…</string>
+	<key>Contextual keys &amp; mouse gestures</key>
+	<string>情境按键与鼠标手势</string>
+	<key>Contiguous</key>
+	<string>连续</string>
+	<key>Contract</key>
+	<string>收缩</string>
+	<key>Contract…</key>
+	<string>收缩…</string>
+	<key>Contrast</key>
+	<string>对比度</string>
+	<key>Copy</key>
+	<string>拷贝</string>
+	<key>Copy Merged</key>
+	<string>合并拷贝</string>
+	<key>Create Clipping Mask</key>
+	<string>创建剪贴蒙版</string>
+	<key>Create Texture</key>
+	<string>创建纹理</string>
+	<key>Create a canvas or import an image</key>
+	<string>创建画布或导入图像</string>
+	<key>Create canvas</key>
+	<string>创建画布</string>
+	<key>Crop</key>
+	<string>裁剪</string>
+	<key>Crop tool</key>
+	<string>裁剪工具</string>
+	<key>Curve</key>
+	<string>曲线</string>
+	<key>Curves</key>
+	<string>曲线</string>
+	<key>Curves…</key>
+	<string>曲线…</string>
+	<key>Custom</key>
+	<string>自定义</string>
+	<key>Cut</key>
+	<string>剪切</string>
+	<key>Cyan / Red</key>
+	<string>青 / 红</string>
+	<key>Cyans</key>
+	<string>青色</string>
+	<key>Cycle shape kind</key>
+	<string>循环切换形状类型</string>
+	<key>Cycle tool mode</key>
+	<string>循环切换工具模式</string>
+	<key>Dark</key>
+	<string>暗色</string>
+	<key>Darken</key>
+	<string>变暗</string>
+	<key>Darker Color</key>
+	<string>深色</string>
+	<key>Decrease brush hardness</key>
+	<string>减小笔刷硬度</string>
+	<key>Decrease brush size</key>
+	<string>减小笔刷大小</string>
+	<key>Decrease leading</key>
+	<string>减小行距</string>
+	<key>Decrease leading by 10</key>
+	<string>减小行距（步长 10）</string>
+	<key>Decrease tracking</key>
+	<string>减小字距</string>
+	<key>Decrease tracking by 10</key>
+	<string>减小字距（步长 10）</string>
+	<key>Default colors</key>
+	<string>默认颜色</string>
+	<key>Defringe</key>
+	<string>去边</string>
+	<key>Delete Layer</key>
+	<string>删除图层</string>
+	<key>Delete Mask</key>
+	<string>删除蒙版</string>
+	<key>Delete Selected Layers</key>
+	<string>删除所选图层</string>
+	<key>Delete selection / layer / effect / lasso point</key>
+	<string>删除选区/图层/效果/套索顶点</string>
+	<key>Density</key>
+	<string>密度</string>
+	<key>Depth</key>
+	<string>深度</string>
+	<key>Deselect</key>
+	<string>取消选择</string>
+	<key>Detail</key>
+	<string>细节</string>
+	<key>Diamond</key>
+	<string>菱形</string>
+	<key>Difference</key>
+	<string>差值</string>
+	<key>Diffusion</key>
+	<string>漫射</string>
+	<key>Disable Mask</key>
+	<string>停用蒙版</string>
+	<key>Displace</key>
+	<string>位移</string>
+	<key>Dissolve</key>
+	<string>溶解</string>
+	<key>Distance</key>
+	<string>距离</string>
+	<key>Distribution</key>
+	<string>分布</string>
+	<key>Dither</key>
+	<string>抖动</string>
+	<key>Divide</key>
+	<string>划分</string>
+	<key>Document Bounds</key>
+	<string>文档边界</string>
+	<key>Don't Save</key>
+	<string>不保存</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>Don’t Save</key>
+	<string>不保存</string>
+	<key>Dot</key>
+	<string>圆点</string>
+	<key>Dots</key>
+	<string>圆点</string>
+	<key>Drag a rectangle · Shift add · Option subtract · Shift again mid-drag square · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect</key>
+	<string>拖拽绘制矩形 · Shift 添加 · Option 减少 · 拖拽中再按 Shift 变正方形 · 框内拖动移动选区 · ⌘-拖动移动像素 · Delete 清除 · ⌘D 取消选择</string>
+	<key>Drag a text box · Click text to edit · Drag box handles to resize · ⌘Return finish · Escape cancel</key>
+	<string>拖拽创建文本框 · 点按文本编辑 · 拖动边框手柄调整大小 · ⌘Return 完成 · Escape 取消</string>
+	<key>Drag an ellipse · Shift add · Option subtract · Shift again mid-drag circle · Drag inside to move · Delete clears · ⌘D deselect</key>
+	<string>拖拽绘制椭圆 · Shift 添加 · Option 减少 · 拖拽中再按 Shift 变圆形 · 框内拖动移动选区 · Delete 清除 · ⌘D 取消选择</string>
+	<key>Drag on the layer to place a guide. Draw at least two lines.</key>
+	<string>在图层上拖拽以放置参考线。至少绘制两条线。</string>
+	<key>Drag over blemishes to heal · [ ] size · Shift-[ ] hardness · Escape cancel · Space to pan</key>
+	<string>在瑕疵上拖拽修复 · [ ] 大小 · Shift-[ ] 硬度 · Escape 取消 · 空格平移</string>
+	<key>Drag to crop · Enter apply · Escape cancel · Space to pan</key>
+	<string>拖拽裁剪 · Enter 应用 · Escape 取消 · 空格平移</string>
+	<key>Drag to draw a shape on a new layer · Shift 45° · Option from center · Shift-U or Tab for the next shape · Escape cancel · Space to pan</key>
+	<string>在新图层上拖拽绘制形状 · Shift 45° · Option 从中心绘制 · Shift-U 或 Tab 切换下一个形状 · Escape 取消 · 空格平移</string>
+	<key>Drag to draw a shape on a new layer · Shift circle · Option from center · Shift-U or Tab for the next shape · Escape cancel · Space to pan</key>
+	<string>在新图层上拖拽绘制形状 · Shift 圆形 · Option 从中心绘制 · Shift-U 或 Tab 切换下一个形状 · Escape 取消 · 空格平移</string>
+	<key>Drag to draw a shape on a new layer · Shift square · Option from center · Shift-U or Tab for the next shape · Escape cancel · Space to pan</key>
+	<string>在新图层上拖拽绘制形状 · Shift 正方形 · Option 从中心绘制 · Shift-U 或 Tab 切换下一个形状 · Escape 取消 · 空格平移</string>
+	<key>Drag to draw · Drag ends to adjust · Shift 45° · 1–0 opacity · Enter apply · Escape cancel</key>
+	<string>拖拽绘制 · 拖动端点调整 · Shift 45° · 1–0 不透明度 · Enter 应用 · Escape 取消</string>
+	<key>Drag to erase · [ ] size · Shift-[ ] hardness · 1–0 opacity · Escape cancel · Space to pan</key>
+	<string>拖拽擦除 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 不透明度 · Escape 取消 · 空格平移</string>
+	<key>Drag to move · Handles to resize · Circle to rotate · 1–0 layer opacity · Space to pan</key>
+	<string>拖拽移动 · 拖动手柄调整大小 · 拖动圆点旋转 · 1–0 图层不透明度 · 空格平移</string>
+	<key>Drag to paint · [ ] size · Shift-[ ] hardness · 1–0 opacity · Escape cancel · Space to pan</key>
+	<string>拖拽绘制 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 不透明度 · Escape 取消 · 空格平移</string>
+	<key>Drag to pan · Pinch to zoom</key>
+	<string>拖拽平移 · 捏合缩放</string>
+	<key>Drag to push pixels · [ ] size · Shift-[ ] hardness · 1–0 strength · Space to pan</key>
+	<string>拖拽推移像素 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 强度 · 空格平移</string>
+	<key>Drag to resize the panel</key>
+	<string>拖拽调整面板大小</string>
+	<key>Drag to select · Drag inside to move · Shift add · Option subtract · Delete clears · ⌥⌫/⌘⌫ fill · ⌘D deselect</key>
+	<string>拖拽选择 · 框内拖动移动选区 · Shift 添加 · Option 减少 · Delete 清除 · ⌥⌫/⌘⌫ 填充 · ⌘D 取消选择</string>
+	<key>Drag to smudge · [ ] size · Shift-[ ] hardness · 1–0 strength · Space to pan</key>
+	<string>拖拽涂抹 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 强度 · 空格平移</string>
+	<key>Drag to soften · [ ] size · Shift-[ ] hardness · 1–0 strength · Space to pan</key>
+	<string>拖拽柔化 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 强度 · 空格平移</string>
+	<key>Draw Guides</key>
+	<string>绘制参考线</string>
+	<key>Drop Shadow</key>
+	<string>投影</string>
+	<key>Drop images here for new tabs</key>
+	<string>将图像拖到此处以新建标签页</string>
+	<key>Drop into new canvas</key>
+	<string>拖入新画布</string>
+	<key>Duplicate / Layer via Copy</key>
+	<string>通过拷贝新建图层</string>
+	<key>Duplicate Layer</key>
+	<string>复制图层</string>
+	<key>Edge</key>
+	<string>边缘</string>
+	<key>Edit Adjustment</key>
+	<string>编辑调整</string>
+	<key>Edit Adjustment…</key>
+	<string>编辑调整…</string>
+	<key>Edit Text</key>
+	<string>编辑文字</string>
+	<key>Editable text layer</key>
+	<string>可编辑的文字图层</string>
+	<key>Effects</key>
+	<string>效果</string>
+	<key>Ellipse</key>
+	<string>椭圆</string>
+	<key>Empty selection</key>
+	<string>空选区</string>
+	<key>Enable Lens Profile Corrections</key>
+	<string>启用镜头配置文件校正</string>
+	<key>Enable Mask</key>
+	<string>启用蒙版</string>
+	<key>Erase</key>
+	<string>擦除</string>
+	<key>Eraser</key>
+	<string>橡皮擦</string>
+	<key>Exclusion</key>
+	<string>排除</string>
+	<key>Expand</key>
+	<string>扩展</string>
+	<key>Expand Selection</key>
+	<string>扩展选区</string>
+	<key>Expand…</key>
+	<string>扩展…</string>
+	<key>Export As</key>
+	<string>导出为</string>
+	<key>Export As…</key>
+	<string>导出为…</string>
+	<key>Export JPEG</key>
+	<string>导出 JPEG</string>
+	<key>Export JPEG…</key>
+	<string>导出 JPEG…</string>
+	<key>Export PNG</key>
+	<string>导出 PNG</string>
+	<key>Export PNG…</key>
+	<string>导出 PNG…</string>
+	<key>Export…</key>
+	<string>导出…</string>
+	<key>Exposure</key>
+	<string>曝光度</string>
+	<key>Extension color</key>
+	<string>扩展颜色</string>
+	<key>Eyedropper</key>
+	<string>吸管</string>
+	<key>Eyedropper tool</key>
+	<string>吸管工具</string>
+	<key>Feather</key>
+	<string>羽化</string>
+	<key>Feather…</key>
+	<string>羽化…</string>
+	<key>Fill</key>
+	<string>填充</string>
+	<key>Fill the selection using surrounding pixels from this layer.</key>
+	<string>使用本图层周围的像素填充选区。</string>
+	<key>Fill with Background</key>
+	<string>用背景色填充</string>
+	<key>Fill with Background Color</key>
+	<string>用背景色填充</string>
+	<key>Fill with Foreground</key>
+	<string>用前景色填充</string>
+	<key>Fill with Foreground Color</key>
+	<string>用前景色填充</string>
+	<key>Filter</key>
+	<string>滤镜</string>
+	<key>Finish editing text</key>
+	<string>完成文本编辑</string>
+	<key>Fit</key>
+	<string>适配</string>
+	<key>Fit Canvas</key>
+	<string>适配画布</string>
+	<key>Fit canvas in window (⌘0)</key>
+	<string>在窗口中适配画布 (⌘0)</string>
+	<key>Flip Canvas Horizontal</key>
+	<string>水平翻转画布</string>
+	<key>Flip Canvas Vertical</key>
+	<string>垂直翻转画布</string>
+	<key>Flip H</key>
+	<string>水平翻转</string>
+	<key>Flip Layer Horizontal</key>
+	<string>水平翻转图层</string>
+	<key>Flip Layer Vertical</key>
+	<string>垂直翻转图层</string>
+	<key>Flip V</key>
+	<string>垂直翻转</string>
+	<key>Floyd–Steinberg</key>
+	<string>Floyd–Steinberg</string>
+	<key>Folder blend mode</key>
+	<string>文件夹混合模式</string>
+	<key>Font</key>
+	<string>字体</string>
+	<key>Foreground</key>
+	<string>前景色</string>
+	<key>Foreground color</key>
+	<string>前景色</string>
+	<key>Foreground to Background</key>
+	<string>前景色到背景色</string>
+	<key>Foreground to Transparent</key>
+	<string>前景色到透明</string>
+	<key>Format</key>
+	<string>格式</string>
+	<key>Freehand</key>
+	<string>手绘</string>
+	<key>Fuzziness</key>
+	<string>容差</string>
+	<key>Gamma</key>
+	<string>伽马</string>
+	<key>Gaussian</key>
+	<string>高斯</string>
+	<key>Gaussian Blur</key>
+	<string>高斯模糊</string>
+	<key>Geometry</key>
+	<string>几何</string>
+	<key>Glow</key>
+	<string>辉光</string>
+	<key>Gradient</key>
+	<string>渐变</string>
+	<key>Gradient Map</key>
+	<string>渐变映射</string>
+	<key>Gradient tool</key>
+	<string>渐变工具</string>
+	<key>Grading</key>
+	<string>分级</string>
+	<key>Grain</key>
+	<string>颗粒</string>
+	<key>Gray</key>
+	<string>灰场</string>
+	<key>Green Primary</key>
+	<string>绿色原色</string>
+	<key>Greens</key>
+	<string>绿色</string>
+	<key>Grid</key>
+	<string>网格</string>
+	<key>Grid Settings</key>
+	<string>网格设置</string>
+	<key>Grid Settings…</key>
+	<string>网格设置…</string>
+	<key>Gridline every</key>
+	<string>网格线间隔</string>
+	<key>Group Layers</key>
+	<string>编组图层</string>
+	<key>Group Selected Layers</key>
+	<string>编组所选图层</string>
+	<key>Guided</key>
+	<string>引导</string>
+	<key>Guides</key>
+	<string>参考线</string>
+	<key>HDR</key>
+	<string>HDR</string>
+	<key>HSL</key>
+	<string>HSL</string>
+	<key>Halation</key>
+	<string>光晕</string>
+	<key>Halftone Diamonds</key>
+	<string>半调菱形</string>
+	<key>Halftone Dots</key>
+	<string>半调网点</string>
+	<key>Halftone Lines</key>
+	<string>半调网线</string>
+	<key>Hand</key>
+	<string>抓手</string>
+	<key>Hand tool</key>
+	<string>抓手工具</string>
+	<key>Hard Light</key>
+	<string>强光</string>
+	<key>Hard Mix</key>
+	<string>实色混合</string>
+	<key>Hardness</key>
+	<string>硬度</string>
+	<key>Height</key>
+	<string>高度</string>
+	<key>Hex color</key>
+	<string>十六进制颜色</string>
+	<key>Hide All (Black)</key>
+	<string>隐藏全部（黑色）</string>
+	<key>Hide Compositor</key>
+	<string>隐藏 Compositor</string>
+	<key>Hide Layer</key>
+	<string>隐藏图层</string>
+	<key>Hide Others</key>
+	<string>隐藏其他</string>
+	<key>Hide the background behind a layer mask, keeping the foreground subjects. The pixels stay, so the background can be painted back at any time.</key>
+	<string>用图层蒙版隐藏背景、保留前景主体。像素仍保留，随时可以把背景画回来。</string>
+	<key>High</key>
+	<string>高</string>
+	<key>High quality</key>
+	<string>高品质</string>
+	<key>Highlight Priority</key>
+	<string>高光优先</string>
+	<key>Highlight Recovery</key>
+	<string>高光恢复</string>
+	<key>Highlights</key>
+	<string>高光</string>
+	<key>Histogram</key>
+	<string>直方图</string>
+	<key>Hue</key>
+	<string>色相</string>
+	<key>Hue/Saturation</key>
+	<string>色相/饱和度</string>
+	<key>Hue/Saturation…</key>
+	<string>色相/饱和度…</string>
+	<key>Image</key>
+	<string>图像</string>
+	<key>Image Size</key>
+	<string>图像大小</string>
+	<key>Image Size…</key>
+	<string>图像大小…</string>
+	<key>Import</key>
+	<string>导入</string>
+	<key>Import Images…</key>
+	<string>导入图像…</string>
+	<key>Import couldn’t finish</key>
+	<string>导入未能完成</string>
+	<key>Import image</key>
+	<string>导入图像</string>
+	<key>Importing images</key>
+	<string>正在导入图像</string>
+	<key>Importing images…</key>
+	<string>正在导入图像…</string>
+	<key>Importing…</key>
+	<string>正在导入…</string>
+	<key>Inches</key>
+	<string>英寸</string>
+	<key>Increase brush hardness</key>
+	<string>增大笔刷硬度</string>
+	<key>Increase brush size</key>
+	<string>增大笔刷大小</string>
+	<key>Increase leading</key>
+	<string>增大行距</string>
+	<key>Increase leading by 10</key>
+	<string>增大行距（步长 10）</string>
+	<key>Increase tracking</key>
+	<string>增大字距</string>
+	<key>Increase tracking by 10</key>
+	<string>增大字距（步长 10）</string>
+	<key>Inner Glow</key>
+	<string>内发光</string>
+	<key>Inner Shadow</key>
+	<string>内阴影</string>
+	<key>Inside</key>
+	<string>内部</string>
+	<key>Install Update</key>
+	<string>安装更新</string>
+	<key>Install and Relaunch</key>
+	<string>安装并重新启动</string>
+	<key>Inverse</key>
+	<string>反选</string>
+	<key>Inverse Selection</key>
+	<string>反选</string>
+	<key>Invert</key>
+	<string>反相</string>
+	<key>Invert Pixels / Mask</key>
+	<string>反转像素/蒙版</string>
+	<key>Justify</key>
+	<string>两端对齐</string>
+	<key>Keep Mine</key>
+	<string>保留我的</string>
+	<key>Keyboard Shortcuts</key>
+	<string>键盘快捷键</string>
+	<key>Keyboard Shortcuts…</key>
+	<string>键盘快捷键…</string>
+	<key>Lasso</key>
+	<string>套索</string>
+	<key>Lasso / cycle mode</key>
+	<string>套索/循环切换模式</string>
+	<key>Last Filter</key>
+	<string>上次滤镜</string>
+	<key>Layer</key>
+	<string>图层</string>
+	<key>Layer effects</key>
+	<string>图层效果</string>
+	<key>Layer's Pixels</key>
+	<string>图层的像素</string>
+	<key>Layers</key>
+	<string>图层</string>
+	<key>Leading</key>
+	<string>行距</string>
+	<key>Left</key>
+	<string>左对齐</string>
+	<key>Lens Correction</key>
+	<string>镜头校正</string>
+	<key>Levels</key>
+	<string>色阶</string>
+	<key>LevelsChannelRGB</key>
+	<string>RGB</string>
+	<key>Levels…</key>
+	<string>色阶…</string>
+	<key>Light</key>
+	<string>亮</string>
+	<key>Light Gray</key>
+	<string>浅灰色</string>
+	<key>Light on Dark</key>
+	<string>暗底亮字</string>
+	<key>Lighten</key>
+	<string>变亮</string>
+	<key>Lighter Color</key>
+	<string>浅色</string>
+	<key>Limited to the selection</key>
+	<string>限于选区</string>
+	<key>Line</key>
+	<string>直线</string>
+	<key>Line Spacing</key>
+	<string>行间距</string>
+	<key>Linear</key>
+	<string>线性</string>
+	<key>Linear Burn</key>
+	<string>线性加深</string>
+	<key>Linear Dodge (Add)</key>
+	<string>线性减淡（添加）</string>
+	<key>Linear Light</key>
+	<string>线性光</string>
+	<key>Lines</key>
+	<string>线条</string>
+	<key>Link Mask</key>
+	<string>链接蒙版</string>
+	<key>Link layer and mask so they move together</key>
+	<string>链接图层与蒙版，使它们一起移动</string>
+	<key>Liquify</key>
+	<string>液化</string>
+	<key>Loading histogram</key>
+	<string>正在加载直方图</string>
+	<key>Loading histogram…</key>
+	<string>正在加载直方图…</string>
+	<key>Lock Guides</key>
+	<string>锁定参考线</string>
+	<key>Lock aspect ratio</key>
+	<string>锁定宽高比</string>
+	<key>Lock original aspect ratio</key>
+	<string>锁定原始宽高比</string>
+	<key>Low</key>
+	<string>低</string>
+	<key>Luminosity</key>
+	<string>明度</string>
+	<key>Mac Patterns</key>
+	<string>Mac 图案</string>
+	<key>Magenta / Green</key>
+	<string>品红 / 绿</string>
+	<key>Magentas</key>
+	<string>品红</string>
+	<key>Magic</key>
+	<string>魔棒</string>
+	<key>Manual</key>
+	<string>手动</string>
+	<key>Marquee</key>
+	<string>选框</string>
+	<key>Marquee / cycle shape</key>
+	<string>选框/循环切换形状</string>
+	<key>Mask</key>
+	<string>蒙版</string>
+	<key>Mask's Black Areas</key>
+	<string>蒙版的黑色区域</string>
+	<key>Master</key>
+	<string>全图</string>
+	<key>Medium Contrast</key>
+	<string>中等对比度</string>
+	<key>Menus</key>
+	<string>菜单</string>
+	<key>Merge Down</key>
+	<string>向下合并</string>
+	<key>Merge Group</key>
+	<string>合并组</string>
+	<key>Merge Layers</key>
+	<string>合并图层</string>
+	<key>Midpoint</key>
+	<string>中点</string>
+	<key>Midtones</key>
+	<string>中间调</string>
+	<key>Millimeters</key>
+	<string>毫米</string>
+	<key>Mixer</key>
+	<string>混合器</string>
+	<key>Mode</key>
+	<string>模式</string>
+	<key>Monochromatic</key>
+	<string>单色</string>
+	<key>Motion Blur</key>
+	<string>动感模糊</string>
+	<key>Move / Transform</key>
+	<string>移动/变换</string>
+	<key>Move / Transform tool</key>
+	<string>移动/变换工具</string>
+	<key>Move Layer Down</key>
+	<string>图层下移一层</string>
+	<key>Move Layer Up</key>
+	<string>图层上移一层</string>
+	<key>Move Out of Folder</key>
+	<string>移出文件夹</string>
+	<key>Move selected pixels Down 1 px</key>
+	<string>向下移动所选像素 1 像素</string>
+	<key>Move selected pixels Down 10 px</key>
+	<string>向下移动所选像素 10 像素</string>
+	<key>Move selected pixels Left 1 px</key>
+	<string>向左移动所选像素 1 像素</string>
+	<key>Move selected pixels Left 10 px</key>
+	<string>向左移动所选像素 10 像素</string>
+	<key>Move selected pixels Right 1 px</key>
+	<string>向右移动所选像素 1 像素</string>
+	<key>Move selected pixels Right 10 px</key>
+	<string>向右移动所选像素 10 像素</string>
+	<key>Move selected pixels Up 1 px</key>
+	<string>向上移动所选像素 1 像素</string>
+	<key>Move selected pixels Up 10 px</key>
+	<string>向上移动所选像素 10 像素</string>
+	<key>Multiply</key>
+	<string>正片叠底</string>
+	<key>Navigator</key>
+	<string>导航器</string>
+	<key>Navigator (300% and above)</key>
+	<string>导航器（300% 及以上）</string>
+	<key>Nearest</key>
+	<string>邻近</string>
+	<key>New</key>
+	<string>新建</string>
+	<key>New Adjustment Layer</key>
+	<string>新建调整图层</string>
+	<key>New Blank Layer</key>
+	<string>新建空白图层</string>
+	<key>New Canvas</key>
+	<string>新建画布</string>
+	<key>New Canvas…</key>
+	<string>新建画布…</string>
+	<key>New Group</key>
+	<string>新建组</string>
+	<key>New Layer</key>
+	<string>新建图层</string>
+	<key>New blank layer</key>
+	<string>新建空白图层</string>
+	<key>New canvas</key>
+	<string>新建画布</string>
+	<key>New color</key>
+	<string>新建颜色</string>
+	<key>New folder</key>
+	<string>新建文件夹</string>
+	<key>Next blend mode</key>
+	<string>下一个混合模式</string>
+	<key>No commands match</key>
+	<string>无匹配命令</string>
+	<key>No layers yet</key>
+	<string>暂无图层</string>
+	<key>No tool selected</key>
+	<string>未选择工具</string>
+	<key>No tool selected · Press a tool's key to pick one · Space to pan</key>
+	<string>未选择工具 · 按工具快捷键选择 · 空格平移</string>
+	<key>Noise Reduction</key>
+	<string>降噪</string>
+	<key>Normal</key>
+	<string>正常</string>
+	<key>Nudge Down 1 px</key>
+	<string>向下微移 1 像素</string>
+	<key>Nudge Down 10 px</key>
+	<string>向下微移 10 像素</string>
+	<key>Nudge Left 1 px</key>
+	<string>向左微移 1 像素</string>
+	<key>Nudge Left 10 px</key>
+	<string>向左微移 10 像素</string>
+	<key>Nudge Right 1 px</key>
+	<string>向右微移 1 像素</string>
+	<key>Nudge Right 10 px</key>
+	<string>向右微移 10 像素</string>
+	<key>Nudge Up 1 px</key>
+	<string>向上微移 1 像素</string>
+	<key>Nudge Up 10 px</key>
+	<string>向上微移 10 像素</string>
+	<key>OK</key>
+	<string>确定</string>
+	<key>Object</key>
+	<string>对象</string>
+	<key>Off</key>
+	<string>关闭</string>
+	<key>Offset</key>
+	<string>偏移</string>
+	<key>Opacity</key>
+	<string>不透明度</string>
+	<key>Opacity digit 0 (type two for exact %)</key>
+	<string>不透明度数字 0（连输两位精确到 %）</string>
+	<key>Opacity digit 1 (type two for exact %)</key>
+	<string>不透明度数字 1（连输两位精确到 %）</string>
+	<key>Opacity digit 2 (type two for exact %)</key>
+	<string>不透明度数字 2（连输两位精确到 %）</string>
+	<key>Opacity digit 3 (type two for exact %)</key>
+	<string>不透明度数字 3（连输两位精确到 %）</string>
+	<key>Opacity digit 4 (type two for exact %)</key>
+	<string>不透明度数字 4（连输两位精确到 %）</string>
+	<key>Opacity digit 5 (type two for exact %)</key>
+	<string>不透明度数字 5（连输两位精确到 %）</string>
+	<key>Opacity digit 6 (type two for exact %)</key>
+	<string>不透明度数字 6（连输两位精确到 %）</string>
+	<key>Opacity digit 7 (type two for exact %)</key>
+	<string>不透明度数字 7（连输两位精确到 %）</string>
+	<key>Opacity digit 8 (type two for exact %)</key>
+	<string>不透明度数字 8（连输两位精确到 %）</string>
+	<key>Opacity digit 9 (type two for exact %)</key>
+	<string>不透明度数字 9（连输两位精确到 %）</string>
+	<key>Open Project</key>
+	<string>打开项目</string>
+	<key>Open Project…</key>
+	<string>打开项目…</string>
+	<key>Open Recent</key>
+	<string>打开最近的文件</string>
+	<key>Open project</key>
+	<string>打开项目</string>
+	<key>Optics</key>
+	<string>光学</string>
+	<key>Option-click to set the source</key>
+	<string>Option-点按设置源点</string>
+	<key>Option-click to set the source · Drag to clone · [ ] size · Shift-[ ] hardness · 1–0 opacity · Space to pan</key>
+	<string>Option-点按设置源点 · 拖拽克隆 · [ ] 大小 · Shift-[ ] 硬度 · 1–0 不透明度 · 空格平移</string>
+	<key>Original</key>
+	<string>原稿</string>
+	<key>Original pixels</key>
+	<string>原始像素</string>
+	<key>Outer Glow</key>
+	<string>外发光</string>
+	<key>Outside</key>
+	<string>外部</string>
+	<key>Overlay</key>
+	<string>叠加</string>
+	<key>PNG</key>
+	<string>PNG</string>
+	<key>Page</key>
+	<string>页面</string>
+	<key>Paint</key>
+	<string>绘画</string>
+	<key>Paint Overlay</key>
+	<string>绘制叠加</string>
+	<key>Parametric</key>
+	<string>参数</string>
+	<key>Paste</key>
+	<string>粘贴</string>
+	<key>Path</key>
+	<string>路径</string>
+	<key>Perspective</key>
+	<string>透视</string>
+	<key>Pin Light</key>
+	<string>点光</string>
+	<key>Pixel Grid (800% and above)</key>
+	<string>像素网格（800% 及以上）</string>
+	<key>Pixel Shape</key>
+	<string>像素形状</string>
+	<key>Pixel Size</key>
+	<string>像素大小</string>
+	<key>Pixels</key>
+	<string>像素</string>
+	<key>Point Sample</key>
+	<string>点取样</string>
+	<key>Polygonal</key>
+	<string>多边形</string>
+	<key>Position</key>
+	<string>位置</string>
+	<key>Positive straightens lines that bow outward (barrel); negative, lines that bow inward (pincushion).</key>
+	<string>正值拉直向外弯的线条（桶形畸变）；负值拉直向内弯的线条（枕形畸变）。</string>
+	<key>Preserve Luminosity</key>
+	<string>保留亮度</string>
+	<key>Preserve Transparency</key>
+	<string>保留透明</string>
+	<key>Preset</key>
+	<string>预设</string>
+	<key>Preset sizes</key>
+	<string>预设尺寸</string>
+	<key>Press a shortcut</key>
+	<string>按下快捷键</string>
+	<key>Press keys…</key>
+	<string>请按键…</string>
+	<key>Preview</key>
+	<string>预览</string>
+	<key>Previous blend mode</key>
+	<string>上一个混合模式</string>
+	<key>Process</key>
+	<string>处理</string>
+	<key>Project tabs</key>
+	<string>项目标签页</string>
+	<key>Projection</key>
+	<string>投影方式</string>
+	<key>Proximity Match</key>
+	<string>近似匹配</string>
+	<key>Quality</key>
+	<string>品质</string>
+	<key>RGB</key>
+	<string>RGB</string>
+	<key>Radial</key>
+	<string>径向</string>
+	<key>Radius</key>
+	<string>半径</string>
+	<key>Range</key>
+	<string>范围</string>
+	<key>Ratio</key>
+	<string>比例</string>
+	<key>Reading the Photoshop file…</key>
+	<string>正在读取 Photoshop 文件…</string>
+	<key>Ready when you are</key>
+	<string>准备好了，随时开始</string>
+	<key>Rectangle</key>
+	<string>矩形</string>
+	<key>Rectilinear</key>
+	<string>直线</string>
+	<key>Red Primary</key>
+	<string>红色原色</string>
+	<key>Redo</key>
+	<string>重做</string>
+	<key>Reds</key>
+	<string>红色</string>
+	<key>Refine</key>
+	<string>细化</string>
+	<key>Reflected</key>
+	<string>对称</string>
+	<key>Relative to current dimensions</key>
+	<string>相对于当前尺寸</string>
+	<key>Release Clipping Mask</key>
+	<string>释放剪贴蒙版</string>
+	<key>Remind Me Later</key>
+	<string>稍后提醒</string>
+	<key>Remove Background</key>
+	<string>移除背景</string>
+	<key>Remove Chromatic Aberration</key>
+	<string>移除色差</string>
+	<key>Remove Distortion</key>
+	<string>移除畸变</string>
+	<key>Remove Links and Delete</key>
+	<string>移除链接并删除</string>
+	<key>Remove every guide line</key>
+	<string>移除所有参考线</string>
+	<key>Remove point</key>
+	<string>删除点</string>
+	<key>Rename</key>
+	<string>重命名</string>
+	<key>Rename Layer…</key>
+	<string>重命名图层…</string>
+	<key>Resample</key>
+	<string>重新采样</string>
+	<key>Reselect</key>
+	<string>重新选择</string>
+	<key>Reset</key>
+	<string>重置</string>
+	<key>Reset colors</key>
+	<string>重置颜色</string>
+	<key>Reset curve</key>
+	<string>重置曲线</string>
+	<key>Resize</key>
+	<string>调整大小</string>
+	<key>Resolution</key>
+	<string>分辨率</string>
+	<key>Restore Defaults</key>
+	<string>恢复默认值</string>
+	<key>Reveal All (White)</key>
+	<string>显示全部（白色）</string>
+	<key>Reverse</key>
+	<string>反向</string>
+	<key>Revert</key>
+	<string>还原</string>
+	<key>Right</key>
+	<string>右对齐</string>
+	<key>Rotate Canvas 90° Clockwise</key>
+	<string>顺时针旋转画布 90°</string>
+	<key>Rotate Canvas 90° Counterclockwise</key>
+	<string>逆时针旋转画布 90°</string>
+	<key>Roughness</key>
+	<string>粗糙度</string>
+	<key>Roundness</key>
+	<string>圆度</string>
+	<key>Rulers</key>
+	<string>标尺</string>
+	<key>Sample</key>
+	<string>取样</string>
+	<key>Sample Ring</key>
+	<string>取样环</string>
+	<key>Sample Size</key>
+	<string>取样大小</string>
+	<key>Sampling</key>
+	<string>取样</string>
+	<key>Saturation</key>
+	<string>饱和度</string>
+	<key>Saturation and brightness</key>
+	<string>饱和度与亮度</string>
+	<key>Save</key>
+	<string>存储</string>
+	<key>Save As</key>
+	<string>存储为</string>
+	<key>Save As…</key>
+	<string>存储为…</string>
+	<key>Save changes to</key>
+	<string>保存对…的更改</string>
+	<key>Scale</key>
+	<string>缩放</string>
+	<key>Scanlines</key>
+	<string>扫描线</string>
+	<key>Screen</key>
+	<string>滤色</string>
+	<key>Search Canvas</key>
+	<string>搜索画布</string>
+	<key>Search Commands</key>
+	<string>搜索命令</string>
+	<key>Search Commands…</key>
+	<string>搜索命令…</string>
+	<key>Search shortcuts</key>
+	<string>搜索快捷键</string>
+	<key>Select</key>
+	<string>选择</string>
+	<key>Select All</key>
+	<string>全选</string>
+	<key>Select Similar</key>
+	<string>选择相似</string>
+	<key>Select Subject</key>
+	<string>选择主体</string>
+	<key>Select a tool</key>
+	<string>选择工具</string>
+	<key>Select image pixels</key>
+	<string>选择图像像素</string>
+	<key>Select layer mask; Option-click to view it alone; Shift-click to enable/disable; Cmd-click to select its black areas (Cmd-Shift adds, Cmd-Option subtracts)</key>
+	<string>选择图层蒙版；按住 ⌥ 单击可单独查看；按住 ⇧ 单击可启用/停用；按住 ⌘ 单击可选择其黑色区域（⌘⇧ 添加，⌘⌥ 减去）</string>
+	<key>Select layer; Cmd-click to select its pixels (Cmd-Shift adds, Cmd-Option subtracts)</key>
+	<string>选择图层；按住 ⌘ 单击可选择其像素（⌘⇧ 添加，⌘⌥ 减去）</string>
+	<key>Select tool</key>
+	<string>选择工具</string>
+	<key>Shadows</key>
+	<string>阴影</string>
+	<key>Shape</key>
+	<string>形状</string>
+	<key>Shape tool</key>
+	<string>形状工具</string>
+	<key>Sharpening</key>
+	<string>锐化</string>
+	<key>Shift</key>
+	<string>Shift</string>
+	<key>Shift Edge</key>
+	<string>移动边缘</string>
+	<key>Show</key>
+	<string>显示</string>
+	<key>Show All</key>
+	<string>全部显示</string>
+	<key>Show Controls</key>
+	<string>显示控件</string>
+	<key>Show Grid</key>
+	<string>显示网格</string>
+	<key>Show Guides</key>
+	<string>显示参考线</string>
+	<key>Show Layer</key>
+	<string>显示图层</string>
+	<key>Show Rulers</key>
+	<string>显示标尺</string>
+	<key>Show Transform Controls</key>
+	<string>显示变换控件</string>
+	<key>Show the image again (or Option-click the mask thumbnail)</key>
+	<string>重新显示图像（或按住 ⌥ 单击蒙版缩览图）</string>
+	<key>Size</key>
+	<string>大小</string>
+	<key>Skip This Version</key>
+	<string>跳过此版本</string>
+	<key>Smear</key>
+	<string>涂抹</string>
+	<key>Smooth</key>
+	<string>平滑</string>
+	<key>Smoothing</key>
+	<string>平滑</string>
+	<key>Smoothness</key>
+	<string>平滑度</string>
+	<key>Smudge</key>
+	<string>涂抹</string>
+	<key>Snap</key>
+	<string>吸附</string>
+	<key>Snap To</key>
+	<string>对齐到</string>
+	<key>Soft Light</key>
+	<string>柔光</string>
+	<key>Spot Healing</key>
+	<string>污点修复画笔</string>
+	<key>Spot Healing Brush</key>
+	<string>污点修复画笔</string>
+	<key>Square</key>
+	<string>方形</string>
+	<key>Stroke</key>
+	<string>描边</string>
+	<key>Strong Contrast</key>
+	<string>强对比度</string>
+	<key>Style</key>
+	<string>样式</string>
+	<key>Subdivisions</key>
+	<string>细分</string>
+	<key>Subject</key>
+	<string>主体</string>
+	<key>Subtract</key>
+	<string>减去</string>
+	<key>Swap colors</key>
+	<string>交换颜色</string>
+	<key>Swap foreground/background</key>
+	<string>交换前景色/背景色</string>
+	<key>Tab for Object</key>
+	<string>对象标签</string>
+	<key>Tab for Wand</key>
+	<string>魔棒标签</string>
+	<key>Tab switches Wand and Object</key>
+	<string>切换魔棒与对象</string>
+	<key>Targeted Adjustment</key>
+	<string>目标调整</string>
+	<key>Targeted adjustment</key>
+	<string>目标调整</string>
+	<key>Temporary Hand tool (hold)</key>
+	<string>临时抓手工具（按住）</string>
+	<key>Text Editing</key>
+	<string>文本编辑</string>
+	<key>Text Size</key>
+	<string>文字大小</string>
+	<key>Text color</key>
+	<string>文字颜色</string>
+	<key>Text-editing shortcuts need Command, Option, or Control so they do not replace normal typing.</key>
+	<string>文本编辑快捷键需要 Command、Option 或 Control，以免替代正常输入。</string>
+	<key>These layers supply live masks</key>
+	<string>这些图层提供实时蒙版</string>
+	<key>Thickness</key>
+	<string>粗细</string>
+	<key>This Layer</key>
+	<string>本图层</string>
+	<key>This layer supplies a live mask</key>
+	<string>此图层提供实时蒙版</string>
+	<key>Three-Way</key>
+	<string>三向</string>
+	<key>Threshold</key>
+	<string>阈值</string>
+	<key>Tint</key>
+	<string>着色</string>
+	<key>Toggle Clipping Mask</key>
+	<string>切换剪贴蒙版</string>
+	<key>Toggle Fullscreen</key>
+	<string>切换全屏</string>
+	<key>Toggle Fullscreen: the canvas alone on black (Esc also leaves)</key>
+	<string>切换全屏：仅黑底画布（按 Esc 也可退出）</string>
+	<key>Toggle Levels preview</key>
+	<string>切换色阶预览</string>
+	<key>Toggle Sidebar</key>
+	<string>切换侧边栏</string>
+	<key>Tolerance</key>
+	<string>容差</string>
+	<key>Tonal Contrast</key>
+	<string>色调对比度</string>
+	<key>Tones</key>
+	<string>色调</string>
+	<key>Top</key>
+	<string>顶部</string>
+	<key>Top Left Pixel Color</key>
+	<string>左上角像素颜色</string>
+	<key>Tracking</key>
+	<string>字距</string>
+	<key>Transform Layer / Selection</key>
+	<string>变换图层/选区</string>
+	<key>Transform Selection</key>
+	<string>变换选区</string>
+	<key>Transparent</key>
+	<string>透明</string>
+	<key>Transparent Pixels</key>
+	<string>透明像素</string>
+	<key>Transparent canvas</key>
+	<string>透明画布</string>
+	<key>Trim</key>
+	<string>裁剪</string>
+	<key>Trim Away</key>
+	<string>修除</string>
+	<key>Trim…</key>
+	<string>修整…</string>
+	<key>Two Colors</key>
+	<string>双色</string>
+	<key>Type</key>
+	<string>文字</string>
+	<key>Type tool</key>
+	<string>文字工具</string>
+	<key>Underlying pixels</key>
+	<string>下方像素</string>
+	<key>Undo</key>
+	<string>撤销</string>
+	<key>Ungroup Layers</key>
+	<string>取消图层编组</string>
+	<key>Uniform</key>
+	<string>均匀</string>
+	<key>Units</key>
+	<string>单位</string>
+	<key>Unlink Mask</key>
+	<string>取消链接蒙版</string>
+	<key>Unlink layer and mask to move or transform them separately</key>
+	<string>取消链接图层与蒙版，以便分别移动或变换它们</string>
+	<key>Unsaved changes</key>
+	<string>未保存的更改</string>
+	<key>Untitled</key>
+	<string>未命名</string>
+	<key>Updating…</key>
+	<string>更新中…</string>
+	<key>Upright</key>
+	<string>自动透视校正</string>
+	<key>Vectorscope</key>
+	<string>矢量示波器</string>
+	<key>Version 1</key>
+	<string>版本 1</string>
+	<key>Version 2</key>
+	<string>版本 2</string>
+	<key>Version 3</key>
+	<string>版本 3</string>
+	<key>Version 4</key>
+	<string>版本 4</string>
+	<key>Version 5</key>
+	<string>版本 5</string>
+	<key>Version 6</key>
+	<string>版本 6</string>
+	<key>Vignette</key>
+	<string>暗角</string>
+	<key>Visualize Range</key>
+	<string>可视化范围</string>
+	<key>Vivid Light</key>
+	<string>亮光</string>
+	<key>Wand</key>
+	<string>魔棒</string>
+	<key>White</key>
+	<string>白场</string>
+	<key>White Balance</key>
+	<string>白平衡</string>
+	<key>White Balance Selector</key>
+	<string>白平衡选择器</string>
+	<key>White canvas</key>
+	<string>白色画布</string>
+	<key>White · Reveal</key>
+	<string>白色 · 显示</string>
+	<key>Width</key>
+	<string>宽度</string>
+	<key>Wobble</key>
+	<string>波动</string>
+	<key>Working…</key>
+	<string>处理中…</string>
+	<key>Yellow / Blue</key>
+	<string>黄 / 蓝</string>
+	<key>Yellows</key>
+	<string>黄色</string>
+	<key>Your changes will be lost if you don’t save them.</key>
+	<string>如果不存储，你的更改将会丢失。</string>
+	<key>Zoom</key>
+	<string>缩放</string>
+	<key>Zoom In</key>
+	<string>放大</string>
+	<key>Zoom Out</key>
+	<string>缩小</string>
+	<key>Zoom percentage</key>
+	<string>缩放百分比</string>
+	<key>Zoom tool</key>
+	<string>缩放工具</string>
+	<key>add</key>
+	<string>添加</string>
+	<key>add layer mask</key>
+	<string>添加图层蒙版</string>
+	<key>add layer mask from selection</key>
+	<string>从选区添加图层蒙版</string>
+	<key>add layer mask hiding selection</key>
+	<string>添加隐藏选区的图层蒙版</string>
+	<key>add mask</key>
+	<string>添加蒙版</string>
+	<key>add noise</key>
+	<string>添加杂色</string>
+	<key>advanced</key>
+	<string>高级</string>
+	<key>angle</key>
+	<string>角度</string>
+	<key>app store</key>
+	<string>App Store</string>
+	<key>ascii</key>
+	<string>ASCII</string>
+	<key>atkinson (classic mac)</key>
+	<string>Atkinson（经典 Mac）</string>
+	<key>auto</key>
+	<string>自动</string>
+	<key>background color</key>
+	<string>背景色</string>
+	<key>basic</key>
+	<string>基本</string>
+	<key>bayer 2 × 2</key>
+	<string>Bayer 2 × 2</string>
+	<key>bayer 4 × 4</key>
+	<string>Bayer 4 × 4</string>
+	<key>bayer 8 × 8</key>
+	<string>Bayer 8 × 8</string>
+	<key>black</key>
+	<string>黑场</string>
+	<key>black &amp; white</key>
+	<string>黑白</string>
+	<key>black canvas</key>
+	<string>黑色画布</string>
+	<key>blend mode</key>
+	<string>混合模式</string>
+	<key>bloom</key>
+	<string>泛光</string>
+	<key>bloom / glow</key>
+	<string>泛光 / 辉光</string>
+	<key>blur</key>
+	<string>模糊</string>
+	<key>bottom right pixel color</key>
+	<string>右下角像素颜色</string>
+	<key>brightness</key>
+	<string>亮度</string>
+	<key>brush</key>
+	<string>画笔</string>
+	<key>calibration</key>
+	<string>校准</string>
+	<key>camera raw</key>
+	<string>Camera Raw</string>
+	<key>camera raw filter</key>
+	<string>Camera Raw 滤镜</string>
+	<key>canvas</key>
+	<string>画布</string>
+	<key>canvas size</key>
+	<string>画布大小</string>
+	<key>center</key>
+	<string>居中对齐</string>
+	<key>check for updates</key>
+	<string>检查更新</string>
+	<key>choose a single key with optional modifiers</key>
+	<string>选择单个按键（可含修饰键）</string>
+	<key>clipping mask based on</key>
+	<string>剪贴蒙版基于</string>
+	<key>clone</key>
+	<string>克隆</string>
+	<key>clone stamp</key>
+	<string>仿制图章</string>
+	<key>color</key>
+	<string>颜色</string>
+	<key>color balance</key>
+	<string>色彩平衡</string>
+	<key>color burn</key>
+	<string>颜色加深</string>
+	<key>color dodge</key>
+	<string>颜色减淡</string>
+	<key>color grading</key>
+	<string>颜色分级</string>
+	<key>color mixer</key>
+	<string>颜色混合器</string>
+	<key>color priority</key>
+	<string>颜色优先</string>
+	<key>compositor</key>
+	<string>Compositor</string>
+	<key>content-aware</key>
+	<string>内容识别</string>
+	<key>content-aware fill</key>
+	<string>内容识别填充</string>
+	<key>contract</key>
+	<string>收缩</string>
+	<key>contrast</key>
+	<string>对比度</string>
+	<key>create a canvas or import an image</key>
+	<string>创建画布或导入图像</string>
+	<key>create clipping mask</key>
+	<string>创建剪贴蒙版</string>
+	<key>create texture</key>
+	<string>创建纹理</string>
+	<key>crop</key>
+	<string>裁剪</string>
+	<key>curve</key>
+	<string>曲线</string>
+	<key>curves</key>
+	<string>曲线</string>
+	<key>custom</key>
+	<string>自定义</string>
+	<key>cyans</key>
+	<string>青色</string>
+	<key>darken</key>
+	<string>变暗</string>
+	<key>darker color</key>
+	<string>深色</string>
+	<key>delete layer</key>
+	<string>删除图层</string>
+	<key>delete mask</key>
+	<string>删除蒙版</string>
+	<key>delete selected layers</key>
+	<string>删除所选图层</string>
+	<key>deselect</key>
+	<string>取消选择</string>
+	<key>detail</key>
+	<string>细节</string>
+	<key>diamond</key>
+	<string>菱形</string>
+	<key>difference</key>
+	<string>差值</string>
+	<key>diffusion</key>
+	<string>漫射</string>
+	<key>disable mask</key>
+	<string>停用蒙版</string>
+	<key>dissolve</key>
+	<string>溶解</string>
+	<key>dither</key>
+	<string>抖动</string>
+	<key>divide</key>
+	<string>划分</string>
+	<key>dot</key>
+	<string>圆点</string>
+	<key>drop images here for new tabs</key>
+	<string>将图像拖到此处以新建标签页</string>
+	<key>duplicate layer</key>
+	<string>复制图层</string>
+	<key>edit adjustment</key>
+	<string>编辑调整</string>
+	<key>editable text layer</key>
+	<string>可编辑的文字图层</string>
+	<key>effect</key>
+	<string>效果</string>
+	<key>effects</key>
+	<string>效果</string>
+	<key>ellipse</key>
+	<string>椭圆</string>
+	<key>enable mask</key>
+	<string>启用蒙版</string>
+	<key>erase</key>
+	<string>擦除</string>
+	<key>eraser</key>
+	<string>橡皮擦</string>
+	<key>exclusion</key>
+	<string>排除</string>
+	<key>expand</key>
+	<string>扩展</string>
+	<key>expand selection</key>
+	<string>扩展选区</string>
+	<key>exposure</key>
+	<string>曝光度</string>
+	<key>eyedropper</key>
+	<string>吸管</string>
+	<key>eyedropper tool</key>
+	<string>吸管工具</string>
+	<key>flip canvas horizontal</key>
+	<string>水平翻转画布</string>
+	<key>flip canvas vertical</key>
+	<string>垂直翻转画布</string>
+	<key>floyd–steinberg</key>
+	<string>Floyd–Steinberg</string>
+	<key>folder blend mode</key>
+	<string>文件夹混合模式</string>
+	<key>foreground color</key>
+	<string>前景色</string>
+	<key>foreground to background</key>
+	<string>前景色到背景色</string>
+	<key>foreground to transparent</key>
+	<string>前景色到透明</string>
+	<key>freehand</key>
+	<string>手绘</string>
+	<key>gaussian blur</key>
+	<string>高斯模糊</string>
+	<key>geometry</key>
+	<string>几何</string>
+	<key>gradient</key>
+	<string>渐变</string>
+	<key>gradient map</key>
+	<string>渐变映射</string>
+	<key>grain</key>
+	<string>颗粒</string>
+	<key>gray</key>
+	<string>灰场</string>
+	<key>grid settings</key>
+	<string>网格设置</string>
+	<key>group selected layers</key>
+	<string>编组所选图层</string>
+	<key>guided</key>
+	<string>引导</string>
+	<key>halation</key>
+	<string>光晕</string>
+	<key>halftone diamonds</key>
+	<string>半调菱形</string>
+	<key>halftone dots</key>
+	<string>半调网点</string>
+	<key>halftone lines</key>
+	<string>半调网线</string>
+	<key>hand</key>
+	<string>抓手</string>
+	<key>hard light</key>
+	<string>强光</string>
+	<key>hard mix</key>
+	<string>实色混合</string>
+	<key>hdr</key>
+	<string>HDR</string>
+	<key>hide all (black)</key>
+	<string>隐藏全部（黑色）</string>
+	<key>hide layer</key>
+	<string>隐藏图层</string>
+	<key>high quality</key>
+	<string>高品质</string>
+	<key>highlight priority</key>
+	<string>高光优先</string>
+	<key>histogram</key>
+	<string>直方图</string>
+	<key>hsl</key>
+	<string>HSL</string>
+	<key>hue</key>
+	<string>色相</string>
+	<key>hue/saturation</key>
+	<string>色相/饱和度</string>
+	<key>image size</key>
+	<string>图像大小</string>
+	<key>importing images</key>
+	<string>正在导入图像</string>
+	<key>inverse</key>
+	<string>反选</string>
+	<key>invert</key>
+	<string>反相</string>
+	<key>justify</key>
+	<string>两端对齐</string>
+	<key>lasso</key>
+	<string>套索</string>
+	<key>last filter</key>
+	<string>上次滤镜</string>
+	<key>left</key>
+	<string>左对齐</string>
+	<key>lens correction</key>
+	<string>镜头校正</string>
+	<key>level</key>
+	<string>色阶</string>
+	<key>levels</key>
+	<string>色阶</string>
+	<key>levelschannelrgb</key>
+	<string>RGB</string>
+	<key>light</key>
+	<string>亮</string>
+	<key>light gray</key>
+	<string>浅灰色</string>
+	<key>lighten</key>
+	<string>变亮</string>
+	<key>lighter color</key>
+	<string>浅色</string>
+	<key>line</key>
+	<string>直线</string>
+	<key>linear</key>
+	<string>线性</string>
+	<key>linear burn</key>
+	<string>线性加深</string>
+	<key>linear dodge (add)</key>
+	<string>线性减淡（添加）</string>
+	<key>linear light</key>
+	<string>线性光</string>
+	<key>lines</key>
+	<string>线条</string>
+	<key>link layer and mask so they move together</key>
+	<string>链接图层与蒙版，使它们一起移动</string>
+	<key>link mask</key>
+	<string>链接蒙版</string>
+	<key>liquify</key>
+	<string>液化</string>
+	<key>loading histogram</key>
+	<string>正在加载直方图</string>
+	<key>luminosity</key>
+	<string>明度</string>
+	<key>mac patterns</key>
+	<string>Mac 图案</string>
+	<key>magic</key>
+	<string>魔棒</string>
+	<key>marquee</key>
+	<string>选框</string>
+	<key>master</key>
+	<string>全图</string>
+	<key>merge down</key>
+	<string>向下合并</string>
+	<key>merge group</key>
+	<string>合并组</string>
+	<key>merge layers</key>
+	<string>合并图层</string>
+	<key>motion blur</key>
+	<string>动感模糊</string>
+	<key>move / transform</key>
+	<string>移动/变换</string>
+	<key>move out of folder</key>
+	<string>移出文件夹</string>
+	<key>multiply</key>
+	<string>正片叠底</string>
+	<key>nearest</key>
+	<string>邻近</string>
+	<key>new</key>
+	<string>新建</string>
+	<key>new group</key>
+	<string>新建组</string>
+	<key>new layer</key>
+	<string>新建图层</string>
+	<key>no tool selected</key>
+	<string>未选择工具</string>
+	<key>normal</key>
+	<string>正常</string>
+	<key>object</key>
+	<string>对象</string>
+	<key>off</key>
+	<string>关闭</string>
+	<key>optics</key>
+	<string>光学</string>
+	<key>original</key>
+	<string>原稿</string>
+	<key>original pixels</key>
+	<string>原始像素</string>
+	<key>overlay</key>
+	<string>叠加</string>
+	<key>paint</key>
+	<string>绘画</string>
+	<key>paint overlay</key>
+	<string>绘制叠加</string>
+	<key>palette</key>
+	<string>调色板</string>
+	<key>parametric</key>
+	<string>参数</string>
+	<key>path</key>
+	<string>路径</string>
+	<key>perspective</key>
+	<string>透视</string>
+	<key>pin light</key>
+	<string>点光</string>
+	<key>pixels</key>
+	<string>像素</string>
+	<key>pixels/inch</key>
+	<string>像素/英寸</string>
+	<key>png</key>
+	<string>PNG</string>
+	<key>point sample</key>
+	<string>点取样</string>
+	<key>polygonal</key>
+	<string>多边形</string>
+	<key>proximity match</key>
+	<string>近似匹配</string>
+	<key>px</key>
+	<string>像素</string>
+	<key>radial</key>
+	<string>径向</string>
+	<key>rectangle</key>
+	<string>矩形</string>
+	<key>rectilinear</key>
+	<string>直线</string>
+	<key>reflected</key>
+	<string>对称</string>
+	<key>release clipping mask</key>
+	<string>释放剪贴蒙版</string>
+	<key>remove background</key>
+	<string>移除背景</string>
+	<key>remove every guide line</key>
+	<string>移除所有参考线</string>
+	<key>rename</key>
+	<string>重命名</string>
+	<key>render</key>
+	<string>渲染</string>
+	<key>reselect</key>
+	<string>重新选择</string>
+	<key>reveal all (white)</key>
+	<string>显示全部（白色）</string>
+	<key>rgb</key>
+	<string>RGB</string>
+	<key>right</key>
+	<string>右对齐</string>
+	<key>rotate canvas 90° clockwise</key>
+	<string>顺时针旋转画布 90°</string>
+	<key>rotate canvas 90° counterclockwise</key>
+	<string>逆时针旋转画布 90°</string>
+	<key>sRGB · Transparent</key>
+	<string>sRGB · 透明</string>
+	<key>sample</key>
+	<string>取样</string>
+	<key>saturation</key>
+	<string>饱和度</string>
+	<key>save changes to</key>
+	<string>保存对…的更改</string>
+	<key>scale</key>
+	<string>缩放</string>
+	<key>scanlines</key>
+	<string>扫描线</string>
+	<key>screen</key>
+	<string>滤色</string>
+	<key>search canvas</key>
+	<string>搜索画布</string>
+	<key>select all</key>
+	<string>全选</string>
+	<key>select image pixels</key>
+	<string>选择图像像素</string>
+	<key>select layer mask; option-click to view it alone; shift-click to enable/disable; cmd-click to select its black areas (cmd-shift adds, cmd-option subtracts)</key>
+	<string>选择图层蒙版；按住 ⌥ 单击可单独查看；按住 ⇧ 单击可启用/停用；按住 ⌘ 单击可选择其黑色区域（⌘⇧ 添加，⌘⌥ 减去）</string>
+	<key>select layer; cmd-click to select its pixels (cmd-shift adds, cmd-option subtracts)</key>
+	<string>选择图层；按住 ⌘ 单击可选择其像素（⌘⇧ 添加，⌘⌥ 减去）</string>
+	<key>select similar</key>
+	<string>选择相似</string>
+	<key>shadow</key>
+	<string>阴影</string>
+	<key>shape</key>
+	<string>形状</string>
+	<key>shift</key>
+	<string>偏移</string>
+	<key>show layer</key>
+	<string>显示图层</string>
+	<key>show the image again (or option-click the mask thumbnail)</key>
+	<string>重新显示图像（或按住 ⌥ 单击蒙版缩览图）</string>
+	<key>smear</key>
+	<string>涂抹</string>
+	<key>smooth</key>
+	<string>平滑</string>
+	<key>smudge</key>
+	<string>涂抹</string>
+	<key>soft light</key>
+	<string>柔光</string>
+	<key>spot healing brush</key>
+	<string>污点修复画笔</string>
+	<key>square</key>
+	<string>方形</string>
+	<key>stamp</key>
+	<string>图章</string>
+	<key>stroke</key>
+	<string>描边</string>
+	<key>subtract</key>
+	<string>减去</string>
+	<key>tab for object</key>
+	<string>对象标签</string>
+	<key>tab for wand</key>
+	<string>魔棒标签</string>
+	<key>tab switches wand and object</key>
+	<string>切换魔棒与对象</string>
+	<key>three-way</key>
+	<string>三向</string>
+	<key>toggle sidebar</key>
+	<string>切换侧边栏</string>
+	<key>tonal contrast</key>
+	<string>色调对比度</string>
+	<key>tone</key>
+	<string>色调</string>
+	<key>top left pixel color</key>
+	<string>左上角像素颜色</string>
+	<key>transform selection</key>
+	<string>变换选区</string>
+	<key>transparent canvas</key>
+	<string>透明画布</string>
+	<key>transparent pixels</key>
+	<string>透明像素</string>
+	<key>trim</key>
+	<string>裁剪</string>
+	<key>two colors</key>
+	<string>双色</string>
+	<key>type</key>
+	<string>文字</string>
+	<key>underlying pixels</key>
+	<string>下方像素</string>
+	<key>ungroup layers</key>
+	<string>取消图层编组</string>
+	<key>unlink layer and mask to move or transform them separately</key>
+	<string>取消链接图层与蒙版，以便分别移动或变换它们</string>
+	<key>unlink mask</key>
+	<string>取消链接蒙版</string>
+	<key>untitled</key>
+	<string>未命名</string>
+	<key>vectorscope</key>
+	<string>矢量示波器</string>
+	<key>version 1</key>
+	<string>版本 1</string>
+	<key>version 2</key>
+	<string>版本 2</string>
+	<key>version 3</key>
+	<string>版本 3</string>
+	<key>version 4</key>
+	<string>版本 4</string>
+	<key>version 5</key>
+	<string>版本 5</string>
+	<key>version 6</key>
+	<string>版本 6</string>
+	<key>vignette</key>
+	<string>暗角</string>
+	<key>vivid light</key>
+	<string>亮光</string>
+	<key>wand</key>
+	<string>魔棒</string>
+	<key>white</key>
+	<string>白场</string>
+	<key>white canvas</key>
+	<string>白色画布</string>
+	<key>zoom</key>
+	<string>缩放</string>
+</dict>
+</plist>
